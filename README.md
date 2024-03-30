@@ -1,6 +1,6 @@
 # churn prediction using ANN
 
-This model is made using artificial neural networks for churn prediction. Accuracy - 95.90% on testing dataset.
+This model is made using artificial neural networks for churn prediction. Accuracy - 95.43% on testing dataset.
 The dataset can be found here : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 About dataset : Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
